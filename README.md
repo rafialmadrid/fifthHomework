@@ -1,4 +1,4 @@
-#Work Day Scheduler (https://rafialmadrid.github.io/fifthHomework/) <-- Link to the deployed app
+#Work Day Scheduler (https://rafialmadrid.github.io/workScheduler/) <-- Link to the deployed app
 
 <img src="Deployed app.jpg" alt="Deployed app">
 
